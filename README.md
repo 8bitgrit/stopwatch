@@ -1,0 +1,1 @@
+Just a simple stopwatch that can be minimized to the taskbar
